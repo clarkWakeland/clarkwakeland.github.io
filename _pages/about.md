@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: *Satellite Engineer | Swimmer | Breakfast Enthusiast*
+subtitle: <b>Satellite Engineer | Swimmer | Breakfast Enthusiast</b>
 
 profile:
   align: right

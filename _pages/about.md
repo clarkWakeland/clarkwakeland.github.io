@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Satellite Engineer | Swimmer | Breakfast Enthusiast
 
 profile:
   align: right
   image: prof_pic.JPEG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Palo Alto</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Palo Alto, California</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

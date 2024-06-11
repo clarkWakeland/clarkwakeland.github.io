@@ -20,4 +20,4 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I'm Clark Wakeland. I'm a satellite systems engineer living in Palo Alto and former competitive swimmer. I love to swim, learn, build things, and teach. Currently I'm training for my first triathlon in Santa Cruz this September.
 
-I swam all throughout undergrad, grad school, and even one year as a post-grad (loosely calling ourselves "professionals"). Throughout all of that time, my favorite part of swimming was the people I met and interacted with every day. You can read more about my athletic career and training philosophy [here](clarkwakeland.com/athletic)
+I swam all throughout undergrad, grad school, and even one year as a post-grad (loosely calling ourselves "professionals"). Throughout all of that time, my favorite part of swimming was the people I met and interacted with every day. You can read more about my athletic career and training philosophy here.

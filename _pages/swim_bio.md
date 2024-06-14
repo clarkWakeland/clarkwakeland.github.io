@@ -1,11 +1,36 @@
 ---
 layout: page
-title: swimming
+title: swim bio
 permalink: /swimBio/
 description: A brief history of my experience with swimming.
-img: 
 nav: true
 horizontal: false
 ---
+### Getting my feet wet
+I've been swimming for as long as I can remember. So long, in fact, I do not remember a time when I didn't know how to swim. 
 
-I've been swimming for as long as I can remember, but I really started taking it seriously at the start of high school
+Like many others, I was introduced to swimming because my parents wanted me to feel safe around water. Somewhere along the line I ended up joining a club around age 11-12 and was swimming everyday. I wasn't particularly good at this point, but I do remember trying to take a few strokes as possible per length. To me, gliding through the water was the most fun part of swimmming. That being said, I wasn't particularly enjoying the sport at this point and almost quit on multiple occasions. 
+
+My family moved to Austin and for some reason decided not to join a club but instead to swim 3x1500s everyday at the UT rec center. Saying this was boring would be an understatment. 
+
+### High School (The kiddie pool)
+My freshman year of high school was my first true exposure to the "team" aspect of swimming (or anything, for that matter). 
+
+### College (The Grown Up Pool)
+I could probably write a whole dissertation on my experience swimming in college (in fact, that might be the subject of a later post). 
+
+
+<div class = "row">
+    <div class="col-md-6" >
+    {% include figure.liquid path="assets/img/swimminHQ.jpg" title="2022 NCAA Championships" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-md-6" >
+        {% include figure.liquid path="assets/img/IMG_0766.jpg" title="2021 US Olympic Team Trials" class="img-fluid rounded z-depth-1" %}
+    </div>
+
+</div>
+
+### Post Grad (The Deep End)
+
+### Present (Open water)
+My current goal is training triathlons. I still swim masters at Stanford as often as I can but it's nice not to have the lingering pressure of having to consistently make every practice. If I want to sleep in, or if I'm just not feeling great in the water that day, it's no big deal. The stake

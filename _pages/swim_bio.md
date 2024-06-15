@@ -9,12 +9,12 @@ horizontal: false
 ### Getting my feet wet
 I've been swimming for as long as I can remember. So long, in fact, I do not remember a time when I didn't know how to swim. 
 
-Like many others, I was introduced to swimming because my parents wanted me to feel safe around water. Somewhere along the line I ended up joining a club around age 11-12 and was swimming everyday. I wasn't particularly good at this point, but I do remember trying to take a few strokes as possible per length. To me, gliding through the water was the most fun part of swimmming. That being said, I wasn't particularly enjoying the sport at this point and almost quit on multiple occasions. 
+Like many others, I was introduced to swimming because my parents wanted me to feel safe around water. Somewhere along the line I ended up joining a club around age 11-12 and was swimming everyday. I wasn't particularly good at this point, but I do remember trying to take a few strokes as possible per length. To me, gliding through the water was the most fun part of swimmming. That being said, I wasn't really enjoying the sport at this point and almost quit on multiple occasions. 
 
-My family moved to Austin and for some reason decided not to join a club but instead to swim 3x1500s everyday at the UT rec center. Saying this was boring would be an understatment. 
+My family moved to Austin and for some reason we decided not to join a club but instead to swim 3x1500s everyday at the UT rec center. Saying this was boring would be an understatment. 
 
 ### High School (The kiddie pool)
-My freshman year of high school was my first true exposure to the "team" aspect of swimming (or anything, for that matter). 
+My freshman year of high school was my first true exposure to the "team" aspect of swimming (or "team" aspect of anything, for that matter). I consider myself a pretty quiet person, but back then I hardly talked to anyone. Being surrounded by 20 or so other guys really allowed me to open up. Initially it seemed scary, but over time I was able to find  
 
 ### College (The Grown Up Pool)
 I could probably write a whole dissertation on my experience swimming in college (in fact, that might be the subject of a later post). 

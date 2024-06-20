@@ -14,7 +14,11 @@ Like many others, I was introduced to swimming because my parents wanted me to f
 My family moved to Austin and for some reason we decided not to join a club but instead to swim 3x1500s everyday at the UT rec center. Saying this was boring would be an understatment. 
 
 ### High School (The kiddie pool)
-My freshman year of high school was my first true exposure to the "team" aspect of swimming (or "team" aspect of anything, for that matter). I consider myself a pretty quiet person, but back then I hardly talked to anyone. Being surrounded by 20 or so other guys really allowed me to open up. Initially it seemed scary, but over time I was able to find  
+My freshman year of high school was my first true exposure to the "team" aspect of swimming (or "team" aspect of anything, for that matter). I consider myself a pretty quiet person, but back then I hardly talked to anyone. Being surrounded by 20 or so other guys really allowed me to open up. Initially it seemed scary, but over time I was able to find my niche and make friends with teammates over interests outside of swimming. 
+
+I began by purely going to high school practices. Our schedule was five days a week in the afternoon for about an hour and a half each practice. Despite being in a relatively affluent area, our school did not have a pool, and we instead used a local neighborhood complex. These practices were much more varied than the "training" I had previously been doing, and I soon found myself starting to improve quickly. At the end of the high school season (Febuary), I had been talking to a few teammates who were club swimmers, and they all recommended that I join a club if I wanted to continue getting better. 
+
+This is a good time to give some background on how swimming works at the age group level (around ages 12-18) and in high school. Unlike other, more popular sports such as football, basketball, and baseball, the high school team is generally *not* the most intensive or serious 
 
 ### College (The Grown Up Pool)
 I could probably write a whole dissertation on my experience swimming in college (in fact, that might be the subject of a later post). 

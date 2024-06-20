@@ -24,7 +24,7 @@
       "position": "Electrical Test Engineer",
       "startDate": "2023-05-01",
       "endDate": "Present",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus."
+      "summary": "Designed and wrote test procedures in Python for the spacecraft electrical systems. Collaborated with GNC team to develop hardware-in-the-loop simulations for the spacecraft attitude control system."
     }
   ],
   "volunteer": [
@@ -35,7 +35,7 @@
       "url": "https://lmcodequestacademy.com/",
       "startDate": "2023-11",
       "endDate": "2024-02",
-      "summary": "Served as technical mentor for high school students in the Code Quest Academy program. Helped studnet develop an understanding of fundamental programming concepts, data structures, and algorithms."
+      "summary": "Served as technical mentor for high school students in the Code Quest Academy program. Helped students develop an understanding of fundamental programming concepts, data structures, and algorithms."
     }
   ],
   "education": [
@@ -48,10 +48,10 @@
       "startDate": "2022-08",
       "endDate": "2023-12",
       "score": "Highest Honors",
-      "courses": ["Control Systems, Spacecraft Dynamics, Orbital Mechanics"]
+      "courses": ["Control Systems, Spacecraft Dynamics, Orbital Mechanics, Michigan Swimming and Diving"]
     },
     {
-      "institution": "Georgia Iinstitute of Technology",
+      "institution": "Georgia Institute of Technology",
       "location": "Atlanta, GA",
       "url": "https://gatech.edu",
       "area": "Aerospace Engineering, Computer Science",
@@ -59,16 +59,16 @@
       "startDate": "2018-08",
       "endDate": "2022-05",
       "score": "Highest Honors",
-      "courses": ["Space Systems Design Lab (SSDL), Laboratory for Intelligent Decision and Autonomous Robotics (LIDAR)"]
+      "courses": ["Space Systems Design Lab (SSDL), Laboratory for Intelligent Decision and Autonomous Robotics (LIDAR), Georgia Tech Swimming and Diving"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "CSC Academic All-American",
+      "date": "2023",
+      "awarder": "College Sports Communicators",
+      "url": "https://academicallamerica.com/news/2023/3/20/2022-23-academic-all-america-mens-swimming-diving-teams-announced-for-all-ncaa-and-naia-divisions.aspx",
+      "summary": "Awarded to student-athletes exhibiting outstanding academic and athletic achievement."
     }
   ],
   "publications": [
@@ -85,27 +85,40 @@
       "releaseDate": "1905-03-18",
       "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
       "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "C++",
+        "Java",
+        "C"
+      ]
+    },
+    {
+      "name": "Development ",
+      "level": "Master",
+      "icon": "fa-solid fa-tools",
+      "keywords": [
+        "Git/Github/Gitlab",
+        "Agile",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "name": "Guidance, Navigation, and Control",
+      "level": "Master",
+      "icon": "fa-solid fa-language",
+      "keywords": [
+        "Orbital Mechanics",
+        "Control Systems",
+        "Attitude Control",
+        "Hardware-in-the-Loop Simulation"
       ]
     }
   ],
@@ -123,14 +136,17 @@
       ]
     }
   ],
-  "projects": [
+  "hobbies": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Swimming",
+      "icon": "fa-solid fa-swimmer",
+      "keywords": [
+        "Butterfly",
+        "Backstroke",
+        "Breaststroke",
+        "Freestyle",
+        "Individual Medley"
+      ]
     }
   ]
 }

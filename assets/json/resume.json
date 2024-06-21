@@ -71,20 +71,20 @@
       "summary": "Awarded to student-athletes exhibiting outstanding academic and athletic achievement."
     }
   ],
-  "publications": [
+  "Relevant Papers & News": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Organ Segmentation from MRI images using U-Net", 
+      "publisher": "Michigan EECS 598",
+      "releaseDate": "2024-12-15",
+      "url": "assets/pdf/Organ_Segmentation_Team_FAnCY.pdf",
+      "summary": "Developed machine learning based solution to segment organs from MRI images using U-Net architecture. Achieved 92% segmentation accuracy on validation data."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Winning the Alcatraz Swim",
+      "publisher": "SwimSwam.com",
+      "releaseDate": "2023-08-30",
+      "url": "https://swimswam.com/ryan-murphy-competes-in-sharkfest-alcatraz-swim/",
+      "summary": "Brief article about my victory in the 2023 Alcatraz Sharkfest swim."
     }
   ],
   "skills": [
@@ -111,28 +111,33 @@
       ]
     },
     {
-      "name": "Guidance, Navigation, and Control",
+      "name": "Spacecraft Systems",
       "level": "Master",
       "icon": "fa-solid fa-language",
       "keywords": [
-        "Orbital Mechanics",
-        "Control Systems",
-        "Attitude Control",
-        "Hardware-in-the-Loop Simulation"
+        "Hardware-in-the-Loop Simulation",
+        "Embedded Systems",
+        "Flight Software Development"
       ]
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Computer Science",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Probabilistic Modelling",
+        "Machine Learning"
+      ]
+    },
+    {
+      "name": "Spacecraft",
+      "icon": "fa-solid fa-satellite-dish",
+      "keywords": [
+        "Edge Computing",
+        "Geographic Information Systems",
+        "Remote Sensing",
+        "Guidnace, Navigation, and Control (GNC)"
       ]
     }
   ],

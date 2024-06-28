@@ -10,7 +10,7 @@ horizontal: false
 ### Intro
 *This was originally a much longer write-up, but I decided to condense it and give the full history it's own blog post. You can read that [here](../blog/2024/complete-swim-bio).*
 
-My history with swimming is long and wasn't always perfect, but I wouldn't trade it for anything. The people I've met and experiences I've gained have all made me a better, more complete person.
+My history with swimming is long and wasn't always perfect, but I wouldn't trade it for anything. The people I've met and experiences I've gained have all made me a better, more complete person. 
 
 
 ### High School (2014-2018)
@@ -44,10 +44,12 @@ I swam at [Georgia Tech](https://ramblinwreck.com/sports/c-swim/) while pursuing
     </div>
 </div>
 
-This was probably the most significant part of my career but I'll leave most of the details for the full post. My friend and former teammate Kevin Fang has a great and relevant post about swimming in college [here](https://fourcontext.com/index.php/2022/02/pros-and-cons-of-being-a-college-swimmer/).
+I improved a lot at Georgia Tech and then had a not so great year (performance wise) at Michigan. I had an amazing time at both places and made friends I'll be connected to forever.
+
+*This was the most significant part of my career but I'll leave most of the details for the full post. My friend and former teammate Kevin Fang has a great post about swimming in college [here](https://fourcontext.com/index.php/2022/02/pros-and-cons-of-being-a-college-swimmer/).*
 
 ### Post Grad (2023-2024)
-I trained with [Alto Swim Club](https://altoswimclub.com/) at Stanford for one year while also having a full time job as a satellite systems engineer. There were about five other post grads training in that group which was nice because we kept each other in check with training despite our "adult" responsibilities. 
+I had a job opportunity in the SF Bay Area and discovered it might be feasible for me to train for one more year. I swam with [Alto Swim Club](https://altoswimclub.com/) at Stanford for one year while working as a satellite systems engineer. There were about five other post grads training in that group which was nice because we kept each other in check with training despite our "adult" responsibilities. 
 
 
 <div class = "container">
@@ -62,7 +64,7 @@ I trained with [Alto Swim Club](https://altoswimclub.com/) at Stanford for one y
 
 
 ### Present (2024-)
-I now swim with [Stanford Masters Swimming](https://web.stanford.edu/group/masters/) and do open water races much more than I did previously. I even won an [Alcatraz swim!](https://www.itsyourrace.com/Results.aspx?amax=199&amin=0&eid=122546&g=A&id=8078&y=2023)
+I now swim with [Stanford Masters Swimming](https://web.stanford.edu/group/masters/) and do open water races much more than I did previously. I even won an [Alcatraz swim!](https://www.itsyourrace.com/Results.aspx?amax=199&amin=0&eid=122546&g=A&id=8078&y=2023) (And SwimSwam even wrote an [article](https://swimswam.com/ryan-murphy-competes-in-sharkfest-alcatraz-swim/) about it)
 
 <div class = "container">
     <div class = "row">
@@ -74,4 +76,4 @@ I now swim with [Stanford Masters Swimming](https://web.stanford.edu/group/maste
     </div>
 </div>
 
-
+I'm currently training for a triathlon in Santa Cruz this September and I've gotten more into running and biking.

@@ -1,0 +1,77 @@
+---
+layout: page
+title: swim bio
+permalink: /swimBio/
+description: A brief history of my experience with swimming.
+nav: true
+horizontal: false
+---
+
+### Intro
+*This was originally a much longer write-up, but I decided to condense it and give the full history it's own blog post. You can read that [here](../blog/2024/complete-swim-bio).*
+
+My history with swimming is long and wasn't always perfect, but I wouldn't trade it for anything. The people I've met and experiences I've gained have all made me a better, more complete person.
+
+
+### High School (2014-2018)
+I swam in high school for [Westlake High School](https://whs.eanesisd.net/) and trained with [Capitol Area Aquatics](https://www.capitalareaaquatics.com/page/home) (then Lost Creek Aquatics) and later [Austin Swim Club](https://www.usms.org/clubs/austin-swim-club-2581?gad_source=1&gclid=CjwKCAjwm_SzBhAsEiwAXE2Cv0xPgP_8BomvqGDmUqCKUXpB55unLJx3iZho0ftc7rS2ovWxUYxU-xoCbEsQAvD_BwE). 
+
+<div class = "container">
+    <div class = "row">
+    <div class="col"></div>
+        <div class = "col-5">
+        {% include figure.liquid path="assets/img/high school 2.png" title="2018 Texas UIL State Championships" class="img-fluid rounded z-depth-1" %}
+        </div>
+    <div class="col"></div>
+    </div>
+</div>
+
+### College (2018-2023)
+I swam at [Georgia Tech](https://ramblinwreck.com/sports/c-swim/) while pursuing my bachelor's degree and did a fifth year at [Michigan](https://mgoblue.com/sports/mens-swimming-and-diving) while pursuing my master's degree. I competed at meets like NCAA Championships, US Olympic Team Trials, and had the opportunity to race Olympic gold medalists and national record holders.
+
+<div class = "container">
+    <div class = "row">
+    <div class="col"></div>
+        <div class = "col-5">
+        {% include figure.liquid path="assets/img/seniorSwim.jpg" title="2022 NCAA Championships" class="img-fluid rounded z-depth-1" %}
+        </div>
+    <div class="col"></div>
+    <div class="col"></div>
+        <div class = "col-5">
+        {% include figure.liquid path="assets/img/IMG_0766.jpg" title="2021 US Olympic Team Trials" class="img-fluid rounded z-depth-1" %}
+        </div>
+    <div class="col"></div>
+    </div>
+</div>
+
+This was probably the most significant part of my career but I'll leave most of the details for the full post. My friend and former teammate Kevin Fang has a great and relevant post about swimming in college [here](https://fourcontext.com/index.php/2022/02/pros-and-cons-of-being-a-college-swimmer/).
+
+### Post Grad (2023-2024)
+I trained with [Alto Swim Club](https://altoswimclub.com/) at Stanford for one year while also having a full time job as a satellite systems engineer. There were about five other post grads training in that group which was nice because we kept each other in check with training despite our "adult" responsibilities. 
+
+
+<div class = "container">
+    <div class = "row">
+        <div class="col align-self-start"></div>
+            <div class = "col-6 align-self-center" >
+            {% include figure.liquid path="assets/img/OTC.jpg" title="2024 Olympic & Paralympic Training Center Trip" class="img-fluid rounded z-depth-1" %}
+            </div>
+        <div class="col align-self-end"></div>
+    </div>
+</div>
+
+
+### Present (2024-)
+I now swim with [Stanford Masters Swimming](https://web.stanford.edu/group/masters/) and do open water races much more than I did previously. I even won an [Alcatraz swim!](https://www.itsyourrace.com/Results.aspx?amax=199&amin=0&eid=122546&g=A&id=8078&y=2023)
+
+<div class = "container">
+    <div class = "row">
+    <div class="col"></div>
+        <div class = "col-5">
+        {% include figure.liquid path="assets/img/alcatraz.jpg" title="2021 US Olympic Team Trials" class="img-fluid rounded z-depth-1" %}
+        </div>
+    <div class="col"></div>
+    </div>
+</div>
+
+

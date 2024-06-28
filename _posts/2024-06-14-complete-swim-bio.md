@@ -78,12 +78,12 @@ I'm going to be a bit effusive here: swimming in NCAA D1 was awesome. I had the 
 
 </div>
 
-Not to say it was perfect all the time, there were some definite low points and times when 
+Not to say it was perfect all the time, there were some definite low points and times when I seriously questioned what I was doing.
 
 #### Freshman Year
 I was welcomed onto the team at Georgia Tech despite being a shy, awkward teenager. Living with my teammates with amazing. The activation energy required to just *hang out* was basically zero. This might seem obvious in retrospect but it was really paradigm shifting for me at the time. Everyday presented an opportunity to socialize and grow closer as friends. I was still scared of the upperclassmen despite having no reason to be other than them being older and bigger than me.
 
-Back to the swimming. In terms of training, it was mostly the same as with a club, albeit with older and faster people. 
+In terms of training, it was mostly the same as with a club, albeit with faster people. 
 
 
 ### Sophomore Year

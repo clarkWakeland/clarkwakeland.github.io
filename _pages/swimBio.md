@@ -52,11 +52,11 @@ I trained with [Alto Swim Club](https://altoswimclub.com/) at Stanford for one y
 
 <div class = "container">
     <div class = "row">
-        <div class="col align-self-start"></div>
-            <div class = "col-6 align-self-center" >
-            {% include figure.liquid path="assets/img/OTC.jpg" title="2024 Olympic & Paralympic Training Center Trip" class="img-fluid rounded z-depth-1" %}
+        <div class="col"></div>
+            <div class = "col-5" >
+            {% include figure.liquid path="assets/img/OTC2.jpg" title="2024 Olympic & Paralympic Training Center Trip" class="img-fluid rounded z-depth-1" %}
             </div>
-        <div class="col align-self-end"></div>
+        <div class="col"></div>
     </div>
 </div>
 

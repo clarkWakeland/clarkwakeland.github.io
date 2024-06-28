@@ -6,5 +6,9 @@ tags: swimming engineering
 description: Anecdotal advice I would give to young engineers looking for success in the pool
 ---
 
-[Under Construction]
+1. Have a support structure
+2. Enjoy coming to practice everyday
+3. Experiment with techniques and training
+4. Don't get Mono
+[under construction]
 

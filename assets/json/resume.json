@@ -4,7 +4,7 @@
     "image": "",
     "email": "clark.wakeland7@gmail.com",
     "url": "clarkwakeland.com",
-    "summary": "Satellite systems engineer with a focus on GNC and mission operations. Background in computer science and embedded systems.",
+    "summary": "Satellite systems engineer with a focus on GNC and system testing. Background in computer science and embedded systems.",
     "location": {
       "city": "Palo Alto",
       "countryCode": "US",
@@ -71,7 +71,7 @@
       "summary": "Awarded to student-athletes exhibiting outstanding academic and athletic achievement."
     }
   ],
-  "Relevant Papers & News": [
+  "Papers": [
     {
       "name": "Organ Segmentation from MRI images using U-Net", 
       "publisher": "Michigan EECS 598",
@@ -106,8 +106,7 @@
       "keywords": [
         "Git/Github/Gitlab",
         "Agile",
-        "Docker",
-        "Kubernetes"
+        "Docker"
       ]
     },
     {
@@ -137,7 +136,7 @@
         "Edge Computing",
         "Geographic Information Systems",
         "Remote Sensing",
-        "Guidnace, Navigation, and Control (GNC)"
+        "Guidance, Navigation, and Control (GNC)"
       ]
     }
   ],

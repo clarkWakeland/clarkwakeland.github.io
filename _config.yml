@@ -132,6 +132,15 @@ blog_description: A blog about swimming, engineering, and the surprising interse
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
+# -----------------------------------------------------------------------------
+# Writings
+# -----------------------------------------------------------------------------
+
+writing_name: Writings2 # writing_name will be displayed in your writings page
+writing_description: A collection of my writings. Effectively fan fiction # writing_description will be displayed in your writings page
+lsi: false # produce an index for related posts
+
+
 # Pagination
 pagination:
   enabled: true
@@ -625,3 +634,4 @@ jsonresume:
   - languages
   - interests
   - references
+  - hobbies

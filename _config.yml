@@ -7,7 +7,7 @@ first_name: Clark
 last_name: Wakeland
 email: clark.wakeland7@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A website about Clark Wakeland and my thoughts.
+  A website about me, Clark Wakeland, and my thoughts on a whole lot of things.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
@@ -131,6 +131,15 @@ blog_name: Threading Water # blog_name will be displayed in your blog page
 blog_description: A blog about swimming, engineering, and the surprising intersection between them. # blog_description will be displayed in your blog page
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
+
+# -----------------------------------------------------------------------------
+# Writings
+# -----------------------------------------------------------------------------
+
+writing_name: Writings2 # writing_name will be displayed in your writings page
+writing_description: A collection of my writings. Effectively fan fiction # writing_description will be displayed in your writings page
+lsi: false # produce an index for related posts
+
 
 # Pagination
 pagination:
@@ -625,3 +634,4 @@ jsonresume:
   - languages
   - interests
   - references
+  - hobbies

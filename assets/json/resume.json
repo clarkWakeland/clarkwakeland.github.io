@@ -90,7 +90,6 @@
   "skills": [
     {
       "name": "Programming",
-      "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Python",
@@ -101,7 +100,6 @@
     },
     {
       "name": "Development ",
-      "level": "Master",
       "icon": "fa-solid fa-tools",
       "keywords": [
         "Git/Github/Gitlab",
@@ -111,7 +109,6 @@
     },
     {
       "name": "Spacecraft Systems",
-      "level": "Master",
       "icon": "fa-solid fa-language",
       "keywords": [
         "Hardware-in-the-Loop Simulation",
@@ -140,17 +137,15 @@
       ]
     }
   ],
+
+  "languages": [
+    {
+      "language": "English"
+    }
+  ],
   "hobbies": [
     {
-      "name": "Swimming",
-      "icon": "fa-solid fa-swimmer",
-      "keywords": [
-        "Butterfly",
-        "Backstroke",
-        "Breaststroke",
-        "Freestyle",
-        "Individual Medley"
-      ]
+      "name" : "Swimming"
     }
   ]
 }

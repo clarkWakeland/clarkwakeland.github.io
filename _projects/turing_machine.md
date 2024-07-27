@@ -2,7 +2,7 @@
 layout: page
 title: C++ Turing Machine
 description: A turing machine implemented in C++ with the function of squaring N number of characters.
-img: assets/img/turingMachine.webp
+img: assets/img/turingMachine.jpg
 importance: 1
 category: fun
 related_publications: false

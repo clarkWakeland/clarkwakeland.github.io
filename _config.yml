@@ -138,7 +138,6 @@ lsi: false # produce an index for related posts
 
 writing_name: Writings2 # writing_name will be displayed in your writings page
 writing_description: A collection of my writings. Effectively fan fiction # writing_description will be displayed in your writings page
-lsi: false # produce an index for related posts
 
 
 # Pagination

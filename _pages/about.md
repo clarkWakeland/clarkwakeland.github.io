@@ -6,7 +6,7 @@ subtitle: <strong>Satellite Engineer | Swimmer | Breakfast Enthusiast</strong>
 
 profile:
   align: right
-  image: prof_pic.JPEG
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><b>Palo Alto, California</b></p>

@@ -120,13 +120,23 @@ If you had read this in a sports manga, your eyes might have rolled out of your 
 
 #### Summer 2020
 
-Everyone has a story about what they did during this time. Mine is more of the same - making things work in spite of adversity. 
+Everyone has a story about what they did during this time. Mine is more of the same - just trying to swim as much as possible.
 
-There were a lot of great things about being home in Austin during lockdown. One of them is the fact that there is a river that runs basically through the middle of the city. There aren't a lot of places with easy access to the river, but I had to get creative, and I told a few of my other friends what I was doing.
+There were a lot of great things about being home in Austin during lockdown. One of them is the fact that there is a river that runs through the middle of the city. There aren't a lot of places with easy access to the river, but I had to get creative, and I told a few of my other friends what I was doing.
+
+<div class = "container">
+    <div class = "row">
+    <div class="col"></div>
+        <div class = "col-8">
+        {% include figure.liquid path="assets/img/sophDive.jpg" title="" class="img-fluid rounded z-depth-1" %}
+        </div>
+    <div class="col"></div>
+    </div>
+</div>
+
+ Swimming is banned in the lower section (Lady Bird Lake), but upstream of the Tom Miller dam, you can swim as long as you're 20 yards from shore. I learned this because I was pulled over by a police and kindly explained this fact while still in the water. 
 
 
-
- Swimming is banned in the lower section (Lady Bird Lake), but upstream of the Tom Miller dam, you can swim as long as you're 20 yards from shore. I learned this because I was pulled over by a police and kindly explained this fact while in the water. 
 ### Junior Year
 
 [under construction]

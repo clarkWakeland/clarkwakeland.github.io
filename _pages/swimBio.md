@@ -8,13 +8,13 @@ horizontal: false
 ---
 
 ### Intro
-*This was originally a much longer write-up, but I decided to condense it and give the full history it's own blog post. You can read that [here](../blog/2024/complete-swim-bio).*
+*This was originally a much longer write-up, but I decided to condense it and give the full history it's own blog post. You can read that [here](/blog/2024/complete-swim-bio.html).*
 
-My history with swimming is long and wasn't always perfect, but I wouldn't trade it for anything. The people I've met and experiences I've gained have all made me a better, more complete person. 
+My history with swimming is long and certainly wasn't perfect, but I wouldn't trade it for anything. The people I've met and experiences I've gained have all made me a better, more complete person. 
 
 
 ### High School (2014-2018)
-I swam in high school for [Westlake High School](https://whs.eanesisd.net/) and trained with [Capitol Area Aquatics](https://www.capitalareaaquatics.com/page/home) (then Lost Creek Aquatics) and later [Austin Swim Club](https://www.usms.org/clubs/austin-swim-club-2581?gad_source=1&gclid=CjwKCAjwm_SzBhAsEiwAXE2Cv0xPgP_8BomvqGDmUqCKUXpB55unLJx3iZho0ftc7rS2ovWxUYxU-xoCbEsQAvD_BwE). 
+I swam in high school for [Westlake High School](https://whs.eanesisd.net/) and trained with [Lost Creek Aquatics](https://www.capitalareaaquatics.com/page/home) (now Capital Area Aquatics) and later [Austin Swim Club](https://www.usms.org/clubs/austin-swim-club-2581?gad_source=1&gclid=CjwKCAjwm_SzBhAsEiwAXE2Cv0xPgP_8BomvqGDmUqCKUXpB55unLJx3iZho0ftc7rS2ovWxUYxU-xoCbEsQAvD_BwE). 
 
 <div class = "container">
     <div class = "row">
@@ -49,7 +49,7 @@ I improved a lot at Georgia Tech and then had a not so great year (performance w
 *This was the most significant part of my career but I'll leave most of the details for the full post. My friend and former teammate Kevin Fang has a great post about swimming in college [here](https://fourcontext.com/index.php/2022/02/pros-and-cons-of-being-a-college-swimmer/).*
 
 ### Post Grad (2023-2024)
-I had a job opportunity in the SF Bay Area and discovered it might be feasible for me to train for one more year. I swam with [Alto Swim Club](https://altoswimclub.com/) at Stanford for one year while working as a satellite systems engineer. There were about five other post grads training in that group which was nice because we kept each other in check with training despite our "adult" responsibilities. 
+I got a career opportunity in the San Francisco Bay Area and discovered it might be feasible for me to train for one more year. I swam with [Alto Swim Club](https://altoswimclub.com/) at Stanford while working as an engineer full time. There were about five other post grads training in that group which was nice because we kept each other in check with training despite our "adult" responsibilities. 
 
 
 <div class = "container">

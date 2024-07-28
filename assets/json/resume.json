@@ -123,7 +123,8 @@
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Probabilistic Modelling",
-        "Machine Learning"
+        "Machine Learning",
+        "Image Segmentation"
       ]
     },
     {
@@ -137,15 +138,18 @@
       ]
     }
   ],
-
-  "languages": [
-    {
-      "language": "English"
-    }
-  ],
   "hobbies": [
     {
-      "name" : "Swimming"
+      "name" : "Swimming",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name" : "Running",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name" : "Reading",
+      "icon": "fa-solid fa-tag"
     }
   ]
 }

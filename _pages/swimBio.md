@@ -8,7 +8,7 @@ horizontal: false
 ---
 
 ### Intro
-*This was originally a much longer write-up, but I decided to condense it and give the full history it's own blog post. You can read that [here]({% link _posts/2024-06-14-complete-swim-bio.md %}).*
+*This was originally a much longer write-up, but I decided to condense it and give the full history it's own blog post, which I am currently working on.*
 
 My history with swimming is long and certainly wasn't perfect, but I wouldn't trade it for anything. The people I've met and experiences I've gained have all made me a better, more complete person. 
 

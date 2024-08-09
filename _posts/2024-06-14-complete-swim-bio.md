@@ -4,6 +4,7 @@ layout: post
 date: 2024-06-14 18:57:41
 tags: swimming
 description: An mostly complete history of my journey as a swimmer
+hidden: true
 ---
 ### Intro
 I'm writing this to document my memories with swimming over the past 10 or so years. I also think it will serve as a great reference I can point to whenever someone asks me about my history with swimming, which is something that's happened a lot. We've got a lot to get through, so let's begin.

@@ -3,8 +3,8 @@ layout: page
 title: A test of quotes
 description: A quote from the Witness
 img: assets/img/turingMachine.jpg
-importance: 2
-category: fun
+importance: 1
+category: SciFi
 related_publications: false
 ---
 

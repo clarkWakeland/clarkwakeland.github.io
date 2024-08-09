@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A brief writing test
-description: A turing machine implemented in C++ with the function of squaring N number of characters.
+description: A turing machine implemented in C++ with the function of squaring N number of [REDACTED].
 img: assets/img/turingMachine.jpg
 importance: 1
 category: fun

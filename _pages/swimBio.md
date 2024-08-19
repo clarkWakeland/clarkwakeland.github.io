@@ -19,7 +19,7 @@ I swam in high school for [Westlake High School](https://whs.eanesisd.net/) and 
 <div class = "container">
     <div class = "row">
     <div class="col"></div>
-        <div class = "col-5">
+        <div class = "col-8">
         {% include figure.liquid path="assets/img/high school 2.png" title="2018 Texas UIL State Championships" class="img-fluid rounded z-depth-1" %}
         </div>
     <div class="col"></div>
@@ -31,20 +31,28 @@ I swam at [Georgia Tech](https://ramblinwreck.com/sports/c-swim/) while pursuing
 
 <div class = "container">
     <div class = "row">
-    <div class="col"></div>
-        <div class = "col-5">
-        {% include figure.liquid path="assets/img/seniorSwim.jpg" title="2022 NCAA Championships" class="img-fluid rounded z-depth-1" %}
-        </div>
-    <div class="col"></div>
-    <div class="col"></div>
-        <div class = "col-5">
+        <div class="col"></div>
+        <div class = "col-8">
         {% include figure.liquid path="assets/img/IMG_0766.jpg" title="2021 US Olympic Team Trials" class="img-fluid rounded z-depth-1" %}
         </div>
-    <div class="col"></div>
+        <div class="col"></div>
+    </div>
+    <div class = "caption">
+    2021 US Olympic Team Trials
+    </div>
+    <div class = "row">
+        <div class="col"></div>
+        <div class = "col-8">
+        {% include figure.liquid path="assets/img/seniorSwim.jpg" title="2022 NCAA Championships" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col"></div>
+    </div>
+    <div class = "caption">
+    2022 NCAA Championships
     </div>
 </div>
 
-I improved a lot at Georgia Tech and then had a not so great year (performance wise) at Michigan. I had an amazing time at both places and made friends I'll be connected to forever.
+I improved significantly at Georgia Tech and then had a not so great year (performance wise) at Michigan. I had an amazing time at both places and made friends I'll be connected to forever.
 
 *This was the most significant part of my career but I'll leave most of the details for the full post. My friend and former teammate Kevin Fang has a great post about swimming in college [here](https://fourcontext.com/index.php/2022/02/pros-and-cons-of-being-a-college-swimmer/).*
 
@@ -64,7 +72,7 @@ I got a career opportunity in the San Francisco Bay Area and discovered it might
 
 
 ### Present (2024-)
-I now swim with [Stanford Masters Swimming](https://web.stanford.edu/group/masters/) and do open water races much more than I did previously. I even won an [Alcatraz swim!](https://www.itsyourrace.com/Results.aspx?amax=199&amin=0&eid=122546&g=A&id=8078&y=2023) (And SwimSwam even wrote an [article](https://swimswam.com/ryan-murphy-competes-in-sharkfest-alcatraz-swim/) about it)
+I now swim with [Stanford Masters Swimming](https://web.stanford.edu/group/masters/) and have gotten more into open water races. I even won an [Alcatraz swim](https://www.itsyourrace.com/Results.aspx?amax=199&amin=0&eid=122546&g=A&id=8078&y=2023) (And SwimSwam even wrote an [article](https://swimswam.com/ryan-murphy-competes-in-sharkfest-alcatraz-swim/) about it).
 
 <div class = "container">
     <div class = "row">

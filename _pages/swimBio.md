@@ -20,9 +20,12 @@ I swam in high school for [Westlake High School](https://whs.eanesisd.net/) and 
     <div class = "row">
     <div class="col"></div>
         <div class = "col-8">
-        {% include figure.liquid path="assets/img/high school 2.png" title="2018 Texas UIL State Championships" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/high school 2.png" title="High school swimming really *is* bigger in Texas" class="img-fluid rounded z-depth-1" %}
         </div>
     <div class="col"></div>
+    <div class = "caption">
+        2018 Texas UIL State Championship
+    </div>
     </div>
 </div>
 
@@ -33,7 +36,7 @@ I swam at [Georgia Tech](https://ramblinwreck.com/sports/c-swim/) while pursuing
     <div class = "row">
         <div class="col"></div>
         <div class = "col-8">
-        {% include figure.liquid path="assets/img/IMG_0766.jpg" title="2021 US Olympic Team Trials" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/IMG_0766.jpg" title="Absolutely unreal. My heart felt like it was about to beat out of my chest" class="img-fluid rounded z-depth-1" %}
         </div>
         <div class="col"></div>
     </div>
@@ -43,7 +46,7 @@ I swam at [Georgia Tech](https://ramblinwreck.com/sports/c-swim/) while pursuing
     <div class = "row">
         <div class="col"></div>
         <div class = "col-8">
-        {% include figure.liquid path="assets/img/seniorSwim.jpg" title="2022 NCAA Championships" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/seniorSwim.jpg" title="My favorite picture of me swimming came in my last ever GT race? Better late than never I guess" class="img-fluid rounded z-depth-1" %}
         </div>
         <div class="col"></div>
     </div>
@@ -64,9 +67,12 @@ I got a career opportunity in the San Francisco Bay Area and discovered it might
     <div class = "row">
         <div class="col"></div>
             <div class = "col-5" >
-            {% include figure.liquid path="assets/img/OTC2.jpg" title="2024 Olympic & Paralympic Training Center Trip" class="img-fluid rounded z-depth-1" %}
+            {% include figure.liquid path="assets/img/OTC2.jpg" title="You'd think with all the time spend underwater, the altitude wouldn't be so bad...but it was brutal" class="img-fluid rounded z-depth-1" %}
             </div>
         <div class="col"></div>
+        <div class = "caption">
+    </div>
+     2024 Olympic & Paralympic Training Center Trip
     </div>
 </div>
 
@@ -81,6 +87,9 @@ I now swim with [Stanford Masters Swimming](https://web.stanford.edu/group/maste
         {% include figure.liquid path="assets/img/alcatraz.jpg" title="2021 US Olympic Team Trials" class="img-fluid rounded z-depth-1" %}
         </div>
     <div class="col"></div>
+    </div>
+    <div class = "caption">
+        2023 Alcatraz Swim
     </div>
 </div>
 

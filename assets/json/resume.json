@@ -3,7 +3,7 @@
     "name": "Clark Wakeland",
     "image": "",
     "email": "clark.wakeland7@gmail.com",
-    "url": "clarkwakeland.com",
+    "url": "https://clarkwakeland.com/",
     "summary": "Satellite systems engineer with a focus on GNC and system testing. Background in computer science and embedded systems.",
     "location": {
       "city": "Palo Alto",
@@ -22,15 +22,24 @@
     {
       "name": "Lockheed Martin",
       "position": "Electrical Test Engineer",
+      "location": "Sunnyvale, CA",
       "startDate": "2023-05-01",
       "endDate": "Present",
       "summary": "Designed and wrote test procedures in Python for the spacecraft electrical systems. Collaborated with GNC team to develop hardware-in-the-loop simulations for the spacecraft attitude control system."
+    },
+    {
+      "name": "Blue Canyon Technologies",
+      "position": "Component Test Engineer Intern",
+      "location": "Boulder, CO",
+      "startDate": "2022-05-25",
+      "endDate": "2022-08-13",
+      "summary": "Developed test utilities framework in Python, designed and performed system testing on flight hardware"
     }
   ],
   "volunteer": [
     {
       "organization": "Code Quest Academy",
-      "location": "Sunnyvale, California",
+      "location": "Sunnyvale, CA",
       "position": "Technical Mentor",
       "url": "https://lmcodequestacademy.com/",
       "startDate": "2023-11",
@@ -138,7 +147,7 @@
       ]
     }
   ],
-  "hobbies": [
+  "Hobbies": [
     {
       "name" : "Swimming",
       "icon": "fa-solid fa-tag"

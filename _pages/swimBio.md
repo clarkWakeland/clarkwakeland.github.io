@@ -23,9 +23,9 @@ I swam in high school for [Westlake High School](https://whs.eanesisd.net/) and 
         {% include figure.liquid path="assets/img/high school 2.png" title="High school swimming really *is* bigger in Texas" class="img-fluid rounded z-depth-1" %}
         </div>
     <div class="col"></div>
+    </div>
     <div class = "caption">
         2018 Texas UIL State Championship
-    </div>
     </div>
 </div>
 
@@ -70,8 +70,8 @@ I got a career opportunity in the San Francisco Bay Area and discovered it might
             {% include figure.liquid path="assets/img/OTC2.jpg" title="You'd think with all the time spend underwater, the altitude wouldn't be so bad...but it was brutal" class="img-fluid rounded z-depth-1" %}
             </div>
         <div class="col"></div>
-        <div class = "caption">
     </div>
+    <div class = "caption">
      2024 Olympic & Paralympic Training Center Trip
     </div>
 </div>
@@ -84,7 +84,7 @@ I now swim with [Stanford Masters Swimming](https://web.stanford.edu/group/maste
     <div class = "row">
     <div class="col"></div>
         <div class = "col-5">
-        {% include figure.liquid path="assets/img/alcatraz.jpg" title="2021 US Olympic Team Trials" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/alcatraz.jpg" title="No, I did not see any sharks" class="img-fluid rounded z-depth-1" %}
         </div>
     <div class="col"></div>
     </div>

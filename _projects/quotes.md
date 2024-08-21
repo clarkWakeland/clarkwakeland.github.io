@@ -1,8 +1,8 @@
 ---
 layout: page
-title: A test of quotes
+title: A Game
 description: A quote from the Witness
-img: assets/img/turingMachine.jpg
+img: assets/img/witness.jpg
 importance: 1
 category: SciFi
 related_publications: false

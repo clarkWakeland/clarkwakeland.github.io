@@ -43,7 +43,7 @@ Breakfast afterwards at the Buena Vista Cafe near Aquatic Park in SF was the per
     <div class = "row">
     <div class="col"></div>
         <div class = "col-8">
-        {% include figure.liquid path="assets/img/postSwim.jpg" title="The water here was pretty questionable, I could barely see my hand in front of me when swimming!" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/postSwim.jpg" title="The water here was pretty questionable. I'm talking could-barely-see-my-hand-in-front of-me levels of murky" class="img-fluid rounded z-depth-1" %}
         </div>
     <div class="col"></div>
     </div>

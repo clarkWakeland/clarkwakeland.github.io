@@ -36,7 +36,7 @@ I swam at [Georgia Tech](https://ramblinwreck.com/sports/c-swim/) while pursuing
     <div class = "row">
         <div class="col"></div>
         <div class = "col-8">
-        {% include figure.liquid path="assets/img/IMG_0766.jpg" title="Absolutely unreal. My heart felt like it was about to beat out of my chest" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/IMG_0766.jpg" title="Unreal" class="img-fluid rounded z-depth-1" %}
         </div>
         <div class="col"></div>
     </div>
@@ -67,7 +67,7 @@ I got a career opportunity in the San Francisco Bay Area and discovered it might
     <div class = "row">
         <div class="col"></div>
             <div class = "col-5" >
-            {% include figure.liquid path="assets/img/OTC2.jpg" title="You'd think with all the time spend underwater, the altitude wouldn't be so bad...but it was brutal" class="img-fluid rounded z-depth-1" %}
+            {% include figure.liquid path="assets/img/OTC2.jpg" title="You'd think with all the time spent training underwater, the altitude wouldn't be so bad..." class="img-fluid rounded z-depth-1" %}
             </div>
         <div class="col"></div>
     </div>

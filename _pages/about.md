@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Clark Wakeland. I'm a satellite systems engineer living in Palo Alto and former competitive swimmer. I love to swim, learn, and teach. Currently I'm training for my first triathlon in Santa Cruz this September.
+Hi, I'm Clark Wakeland. I'm a satellite systems engineer living in Palo Alto and former competitive swimmer. I love to swim, surf, and hang out with my friends. Currently I'm also trying to get into biking and running.
 
 As an engineer, I'm interested in the dynamics and algorithms that determine the guidance, navigation, and control (GNC) of the vehicle. To put it briefly, it's making sure the satellite is pointed where we want it to be, at the time we want it to be. I'm also interested in probabilistic modelling, deep learning, and its applications with space vehicles.
 

@@ -96,3 +96,27 @@ After confirming our commands with a very tired flight software lead, we send th
 I hope I managed to explain the relevant systems in enough detail and not use too many acronyms, and at least explain the ones I did use. Working on space systems has exposed me to a seemingly infinite amount of different acronyms, some of which are the same but have different meanings. There was also a lot I glossed over, with the main time sink being the proper identification of the issue. There were many red herrings that were chased before we correctly determined that it was an ERIU crash. This would have ended much worse without the support of the amazing systems engineers who answered our calls in the middle of the night on a Saturday.
 
 I think what surprised me the most was how nonchalant the response was. We had documented all of our actions, so other people had read what happened and knew something had gone on. I wasn't expecting any fanfare but we weren't even debriefed on what happened. I guess this is the event that really got the point across to me about how if you do your job right, it'll be like nothing ever happened. But I'll take that over a BSOD on a multi billion dollar satellite any day.
+
+## 2024-09-26 Update Re: Hacker News Post
+
+[Link to Hacker News post](https://news.ycombinator.com/item?id=41650534)
+
+Yesterday (Sept 25th) I posted this article to Hacker News. It wasn't anything groundbreaking but it did get considerably more popular than I expected. I'll try to clarify things that were asked in the HN post.
+
+1. *Why is the satellite running Windows?*
+    
+    The satellite was not running Windows. It has a custom OS called Flight Software (yes, that's its actual name) or FSW for short. I believe it is an RTOS based on Wind River's vxworks but my details are a bit shaky on this and could be wrong. I was using a BSOD as an analogy for the satellite going into safemode. I can see how the title of the article and other parts of the post would give the impression that the satellite was running Windows. In the future, I'll try to clarify this types of things more. 
+
+2. *Why wasn't this caught in test verification?*
+    
+    The Functional Test Assembly (FTA) which we use to vet our scripts is incredibly unreliable. Additionally, other teams are constantly fighting for space in this lab to perform their own testing. For the CLT mentioned in the article, we were unable to get a clean run in the FTA, but it was decided to go ahead and run on the vehicle due to time constraints. At the time, the memory address mapping and ERIU crashing issue was not well understood. If it was, it certainly would not have been run on the satellite. 
+
+Overall, I can see how the title of the article a little click-baity. After reading some of the comments, I debated changing the title, but eventually decided to leave it as is. I still believe that safemode, while not exactly a BSOD, is close enough that the comparison still holds. Outside of correcting a couple typos (which I got some nice emails correcting me about haha) and clarification in the first sentence to specify *testing*, the content is unchanged. Although maybe I should remove the Crowdstrike reference, given how dated that it'll seem in a few months/years.
+
+I'm most happy that the post seems to have struck a chord with people and got them interested, engaged, and asking questions. An interesting symbiosis happened where the readers were able to learn about something new, and I was given an outside perspective on my writing that'll allow me to communicate ideas more clearly. This is definitely an iterative process for me, and I'm looking forward to taking this feedback into account on my future writings.
+
+-Clark
+
+    
+
+

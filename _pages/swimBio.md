@@ -8,9 +8,8 @@ horizontal: false
 ---
 
 ### Intro
-*This was originally a much longer write-up, but I decided to condense it and give the full history it's own blog post, which I am currently working on.*
 
-My history with swimming is long and certainly wasn't perfect, but I wouldn't trade it for anything. The people I've met and experiences I've gained have all made me a better, more complete person. 
+My history with swimming is long, but I wouldn't trade it for anything. The people I've met and experiences I've gained have all made me a better, more complete person. 
 
 
 ### High School (2014-2018)
@@ -55,7 +54,7 @@ I swam at [Georgia Tech](https://ramblinwreck.com/sports/c-swim/) while pursuing
     </div>
 </div>
 
-I improved significantly at Georgia Tech and then had a not so great year (performance wise) at Michigan. I had an amazing time at both places and made friends I'll be connected to forever.
+I improved significantly at Georgia Tech and then swam a fifth year at Michigan during graduate school. I had an amazing time at both places and made friends I'll be connected to forever.
 
 *This was the most significant part of my career but I'll leave most of the details for the full post. My friend and former teammate Kevin Fang has a great post about swimming in college [here](https://fourcontext.com/index.php/2022/02/pros-and-cons-of-being-a-college-swimmer/).*
 
@@ -93,4 +92,4 @@ I now swim with [Stanford Masters Swimming](https://web.stanford.edu/group/maste
     </div>
 </div>
 
-I'm currently training for a triathlon in Santa Cruz this September and I've gotten more into running and biking.
+I'm currently training for a triathlons and I've gotten more into running and biking.

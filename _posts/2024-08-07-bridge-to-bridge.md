@@ -7,7 +7,7 @@ description: A swim in the bay
 ---
 
 
-> *I can see you in the sky. You are the waves, which are battles, and the battles are the waves.*
+> *In primordial space, timeless creatures made waves. These waves created us and others. Waves were the battles, and the battles were the waves.*
 ><br/><br/>
 > -- Marathon: Durandal
 

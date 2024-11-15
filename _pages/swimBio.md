@@ -35,7 +35,7 @@ I swam at [Georgia Tech](https://ramblinwreck.com/sports/c-swim/) while pursuing
     <div class = "row">
         <div class="col"></div>
         <div class = "col-8">
-        {% include figure.liquid path="assets/img/IMG_0766.jpg" title="Unreal" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/IMG_0766.jpg" class="img-fluid rounded z-depth-1" %}
         </div>
         <div class="col"></div>
     </div>
@@ -45,7 +45,7 @@ I swam at [Georgia Tech](https://ramblinwreck.com/sports/c-swim/) while pursuing
     <div class = "row">
         <div class="col"></div>
         <div class = "col-8">
-        {% include figure.liquid path="assets/img/seniorSwim.jpg" title="My favorite picture of me swimming came in my last ever GT race? Better late than never I guess" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/seniorSwim.jpg" class="img-fluid rounded z-depth-1" %}
         </div>
         <div class="col"></div>
     </div>

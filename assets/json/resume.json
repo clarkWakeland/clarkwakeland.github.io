@@ -103,7 +103,6 @@
       "keywords": [
         "Python",
         "C++",
-        "Java",
         "C"
       ]
     },
@@ -111,9 +110,10 @@
       "name": "Development ",
       "icon": "fa-solid fa-tools",
       "keywords": [
-        "Git/Github/Gitlab",
+        "Git",
         "Agile",
-        "Docker"
+        "Docker",
+        "Reverse Engineering with Ghidra"
       ]
     },
     {
@@ -122,6 +122,7 @@
       "keywords": [
         "Hardware-in-the-Loop Simulation",
         "Embedded Systems",
+        "Optical Payloads",
         "Flight Software Development"
       ]
     }
@@ -129,11 +130,11 @@
   "interests": [
     {
       "name": "Computer Science",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-computer",
       "keywords": [
         "Probabilistic Modelling",
-        "Machine Learning",
-        "Image Segmentation"
+        "Image Segmentation",
+        "Synthetic Data"
       ]
     },
     {
@@ -143,7 +144,24 @@
         "Edge Computing",
         "Geographic Information Systems",
         "Remote Sensing",
-        "Guidance, Navigation, and Control (GNC)"
+        "Guidance, Navigation, and Control"
+      ]
+    },
+    {
+      "name": "Athletics",
+      "icon": "fa-solid fa-person-swimming",
+      "keywords": [
+        "Swimming",
+        "Skiing",
+        "Biking",
+        "Surfing"
+      ]
+    },
+    {
+      "name": "Music",
+      "icon": "fa-solid fa-music",
+      "keywords": [
+        "Piano"
       ]
     }
   ],

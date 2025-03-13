@@ -9,7 +9,7 @@ horizontal: false
 
 ### Intro
 
-My history with swimming is long, but I wouldn't trade it for anything. The people I've met and experiences I've gained have all made me a better, more complete person. 
+My history with swimming is long, but I wouldn't trade it for anything. I tried to keep this summary brief because the full story is much longer. In many ways I think swimming is a reflection of real life - sometimes it's hard to understand why you failed one time and succeeded another, and it's the people you meet that really make it all worth it.
 
 
 ### High School (2014-2018)
@@ -18,8 +18,9 @@ I swam in high school for [Westlake High School](https://whs.eanesisd.net/) and 
 <div class = "container">
     <div class = "row">
     <div class="col"></div>
-        <div class = "col-8">
-        {% include figure.liquid path="assets/img/high school 2.png" title="High school swimming really *is* bigger in Texas" class="img-fluid rounded z-depth-1" %}
+        <div class = "col-6">
+        {% include figure.liquid path="assets/img/high school 2.png" title="" 
+        class="img-fluid rounded z-depth-1" %}
         </div>
     <div class="col"></div>
     </div>
@@ -45,6 +46,13 @@ I swam at [Georgia Tech](https://ramblinwreck.com/sports/c-swim/) while pursuing
     <div class = "row">
         <div class="col"></div>
         <div class = "col-8">
+        {% include figure.liquid path="assets/img/GTinvite.jpg" class="img-fluid rounded z-depth-1" %}
+        </div>
+        <div class="col"></div>
+    </div>
+    <div class = "row">
+        <div class="col"></div>
+        <div class = "col-8">
         {% include figure.liquid path="assets/img/seniorSwim.jpg" class="img-fluid rounded z-depth-1" %}
         </div>
         <div class="col"></div>
@@ -54,19 +62,19 @@ I swam at [Georgia Tech](https://ramblinwreck.com/sports/c-swim/) while pursuing
     </div>
 </div>
 
-I improved significantly at Georgia Tech and then swam a fifth year at Michigan during graduate school. I had an amazing time at both places and made friends I'll be connected to forever.
-
-*This was the most significant part of my career but I'll leave most of the details for the full post. My friend and former teammate Kevin Fang has a great post about swimming in college [here](https://fourcontext.com/index.php/2022/02/pros-and-cons-of-being-a-college-swimmer/).*
+There's a lot to say about swimming in college, but it honestly deserves it's own post. The crux of it is this: I went from a shy, nerdy, good-but-not-great swimmer to a more confident, even nerdier, and genuinely great swimmer.
+*My friend and former teammate Kevin Fang also has a great post about swimming in college [here](https://fourcontext.com/index.php/2022/02/pros-and-cons-of-being-a-college-swimmer/).*
 
 ### Post Grad (2023-2024)
-I got a career opportunity in the San Francisco Bay Area and discovered it might be feasible for me to train for one more year. I swam with [Alto Swim Club](https://altoswimclub.com/) at Stanford while working as an engineer full time. There were about five other post grads training in that group which was nice because we kept each other in check with training despite our "adult" responsibilities. 
+I got a career opportunity in the San Francisco Bay Area and determined it would be feasible to train for one more year. I swam with [Alto Swim Club](https://altoswimclub.com/) at Stanford while working as an engineer full time. There were about five other post grads training in that group which was nice because we kept each other in check with training despite our "adult" responsibilities. 
 
 
 <div class = "container">
     <div class = "row">
         <div class="col"></div>
             <div class = "col-5" >
-            {% include figure.liquid path="assets/img/OTC2.jpg" title="You'd think with all the time spent training underwater, the altitude wouldn't be so bad..." class="img-fluid rounded z-depth-1" %}
+            {% include figure.liquid path="assets/img/OTC2.jpg" title="" 
+            class="img-fluid rounded z-depth-1" %}
             </div>
         <div class="col"></div>
     </div>
@@ -77,7 +85,7 @@ I got a career opportunity in the San Francisco Bay Area and discovered it might
 
 
 ### Present (2024-)
-I now swim with [Stanford Masters Swimming](https://web.stanford.edu/group/masters/) and have gotten more into open water races. I even won an [Alcatraz swim](https://www.itsyourrace.com/Results.aspx?amax=199&amin=0&eid=122546&g=A&id=8078&y=2023) (And SwimSwam even wrote an [article](https://swimswam.com/ryan-murphy-competes-in-sharkfest-alcatraz-swim/) about it).
+I now swim with [Stanford Masters Swimming](https://web.stanford.edu/group/masters/) and have gotten more into open water races. I even won an [Alcatraz swim](https://www.itsyourrace.com/Results.aspx?amax=199&amin=0&eid=122546&g=A&id=8078&y=2023) (And SwimSwam wrote an [article](https://swimswam.com/ryan-murphy-competes-in-sharkfest-alcatraz-swim/) about it).
 
 <div class = "container">
     <div class = "row">
@@ -92,4 +100,4 @@ I now swim with [Stanford Masters Swimming](https://web.stanford.edu/group/maste
     </div>
 </div>
 
-I'm currently training for a triathlons and I've gotten more into running and biking.
+I'm currently running, lifting, and getting back into skiing after a ten year hiatus.

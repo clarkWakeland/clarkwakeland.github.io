@@ -73,7 +73,7 @@ I got a career opportunity in the San Francisco Bay Area and determined it would
     <div class = "row">
         <div class="col"></div>
             <div class = "col-5" >
-            {% include figure.liquid path="assets/img/OTC2.jpg" title="" 
+            {% include figure.liquid path="assets/img/OTC2.png" title="" 
             class="img-fluid rounded z-depth-1" %}
             </div>
         <div class="col"></div>
@@ -91,7 +91,7 @@ I now swim with [Stanford Masters Swimming](https://web.stanford.edu/group/maste
     <div class = "row">
     <div class="col"></div>
         <div class = "col-5">
-        {% include figure.liquid path="assets/img/alcatraz.jpg" title="No, I did not see any sharks" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/alcatraz.JPG" title="No, I did not see any sharks" class="img-fluid rounded z-depth-1" %}
         </div>
     <div class="col"></div>
     </div>

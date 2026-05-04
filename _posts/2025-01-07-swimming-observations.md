@@ -20,6 +20,6 @@ description:  Also relevant to engineering teams
 - Every training regime will work well for at least one person work terribly for at least one other person. Find a program that seems to be working well for *most* (>80%) people.
 - The negative effects of partying come from disease transmission rather than excessive alcohol consumption.  
 - Cliques of four to six people will form on any team. This is totally normal and actually a good thing. Inter-clique relationships should be maintained at a high priority.
-- Yes, you were actually just as green as new guys.
+- One of the biggest benefits of swimming in college is the foundation it gives you for fitness. You should try to maintain this as long as you can.
 
-Last updated: 2025-01-07
+Last updated: 2026-05-03
